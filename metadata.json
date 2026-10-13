@@ -1,0 +1,6 @@
+{
+  "name": "DuesLedger",
+  "description": "Universal offline business dues, customer & supplier ledger, credit sales, purchases, payments, and multi-business manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
